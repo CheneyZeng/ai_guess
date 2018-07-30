@@ -1,4 +1,4 @@
-name: dog-project
+name: ai_guess
 channels:
 - defaults
 dependencies:
