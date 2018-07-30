@@ -47,7 +47,7 @@ git clone https://github.com/CheneyZeng/ai_guess.git
 3. 打开 notebook
 
 ```
-jupyter notebook guess_ai.ipynb
+jupyter notebook ai_guess.ipynb
 ```
 
 __注意：__ 我们虽然已经实现了一些代码，让你更快地开始工作，你仍需要实现额外的功能，以回答 notebook 中所有的问题。
